@@ -1,0 +1,10 @@
+.DS_Store
+*.png
+__pycache__/
+.vscode/
+build/
+build_*/
+*.so
+python/ElasticRods
+python/MeshFEM
+.ipynb_checkpoints/
