@@ -1,6 +1,6 @@
 # bistable-auxetic-surface-structures
 
-Bistable auxetic surface structures (BASS) is a free and open source application for the generation of the fabrication patterns of morphing structures. BASS allows users to directly specify the shape of a deployed 3D surface, and generates a flat Kirigami pattern that when deployed, transforms to that specified surface. These patterns are 2D in nature and can be fabricated in a number of ways including laser cutting. 
+Bistable auxetic surface structures (BASS) is a free and open source application for the generation of the fabrication patterns of morphing structures. BASS allows users to directly specify the shape of a deployed 3D surface, and generates a flat Kirigami pattern that when deployed, transforms to that specified surface. These patterns are 2D in nature and can be fabricated in a number of ways including laser cutting. We used rubber sheets from Trodat (Aero+) and a laser cutter from Trotec (Speedy 360) to physically fabricate the demos.
 
 The BASS application is based on the paper, “Bistable auxetic surface structures” by Tian Chen, Julian Panetta, Max Schaubelt and Mark Pauly: https://doi.org/10.1145/3450626.3459940
 
